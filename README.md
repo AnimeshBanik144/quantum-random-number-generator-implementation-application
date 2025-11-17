@@ -1,7 +1,7 @@
 # Quantum Random Number Generator  
 *A quantum-powered true random number generator (QRNG) implemented in Python using Qiskit*  
 
-## 🔍 Project Overview
+## Project Overview
 
 This repository provides a quantum-based random number generator (QRNG) implemented in **Qiskit**, allowing for the generation of (pseudo) true-random numbers by measuring quantum superposition. The tool can generate uniformly distributed random integers in a given range using proper rejection sampling to avoid modulo bias.
 
